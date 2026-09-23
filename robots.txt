@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhdgkw.com/sitemap.xml
